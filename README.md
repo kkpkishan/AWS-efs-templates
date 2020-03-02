@@ -1,7 +1,7 @@
 # EFS CloudFormation Templates
 <table width="100%">
     <tr>
-        <th align="left" colspan="2"><h4><a href="https://github.com/kkpkishan/aws-efs-cloudformation-templates.git/efs.yml">EFS</a></h4></th>
+        <th align="left" colspan="2"><h4><a href="https://github.com/kkpkishan/aws-efs-cloudformation-templates/blob/master/efs.yml">EFS</a></h4></th>
     </tr>
     <tr>
         <td width="100%" valign="top">
