@@ -10,8 +10,6 @@ Parameters:
     Type: String
     Default: EFS Mount
   DeleteAfter:
-    Description: Enter Date It's Ok to Delete the Stack or 'Never' if meant to be
-      persistent.
     Type: String
     Default: 00/00/201x
   # Network
